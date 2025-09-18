@@ -6,4 +6,4 @@
 2. Download the latest version (or whatever version you want)
 3. Start writing!
 
-You can also use WriteRush in your browser [here](https://app.writerush.net/)
+You can also use WriteRush [in your browser](https://app.writerush.net/)
